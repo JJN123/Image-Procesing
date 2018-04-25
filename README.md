@@ -6,7 +6,7 @@ Welcome to the Image-Processing wiki!
 
 In this project, I apply various filters to the following image:
 
-[[https://github.com/JJN123/Image-Procesing/blob/master/originalgreyscale.png]]
+![](https://github.com/JJN123/Image-Procesing/blob/master/originalgreyscale.png)
 
 For example, after applying a Gaussian filter:
 
