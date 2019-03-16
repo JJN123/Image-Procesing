@@ -2,8 +2,6 @@
 Playing around with some image proccessing techniques (2-d FFT/ convolution).
 See wiki for details on use of code.
 
-Welcome to the Image-Processing wiki!
-
 In this project, I apply various filters to the following image:
 
 ![](https://github.com/JJN123/Image-Procesing/blob/master/originalgreyscale.png)
